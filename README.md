@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/konigdave" target="blank"><img src="https://img.shields.io/twitter/follow/konigdave?logo=twitter&style=for-the-badge" alt="konigdave" /></a> </p>
 
-- 🔭 I’m currently working on **EC2 Web Application Deployment**
+- 🔭 I’m currently working on **Django Recipe API**
 
-- 🌱 I’m currently learning **AWS Cloud Support Associate Professional Course**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
